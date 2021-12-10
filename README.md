@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://github.com/66Bunz/Droptop-Four-Discord-Bot">
+    <a href="https://github.com/66Bunz/Polmonite-Raggi-X">
         <img src="https://user-images.githubusercontent.com/66331265/141339370-7117045f-1c09-4bf9-b8c9-c309b39a9759.jpeg"
             alt="Logo" height="300">
     </a>
