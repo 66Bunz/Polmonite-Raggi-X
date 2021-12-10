@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="center">CODE</h3>
+<h3 align="center">CODICE</h3>
 
 <p>
   L'articolo originale di questo progetto creato da <a href="https://abhinav-sagar.medium.com/"><strong>Abhinav Sagar</strong></a> può essere trovato su <a href="https://towardsdatascience.com/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8"><strong>Medium</strong></a>
@@ -31,8 +31,11 @@
 
 <h3 align="center">ALTRI RIFERIMENTI DELL'AUTORE</h3>
 
-<p align="center">
-    
+<p>
+  <ul>
+    <li><a href="https://abhinavsagar.github.io/">Sito Web</a></li>
+    <li><a href="https://github.com/abhinavsagar">Profilo Github</a></li>
+  </ul>
 </p>
 
 
